@@ -32,7 +32,8 @@ Embrace your inner hacker and customize OpenPower to suit your unique needs. Its
 # Vibrant Color Options
 Express your personal style with OpenPower. It's available in a wide array of vibrant colors, so you can choose the one that matches your personality and stands out from the crowd. Make a statement with your power bank!
 
-Contribution
+# Contributions
 All contributors and enthusiasts are welcome. If you have ideas, suggestions, or improvements, please feel free to open issues and submit pull requests. Together, we can make OpenPower even better.
 
+# 
 Thank you for visiting the OpenPower repository and being a part of this journey. I hope you find OpenPower as exciting and useful as I do. Let's power up lives, one charge at a time!
